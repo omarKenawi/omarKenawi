@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1 align="center">Hi 👋, I'm Omar Kenawi</h1>
-<h3 align="center">Mobile Developer | front end  </h3>
+<h3 align="center">Mobile Developer | Front end  </h3>
 
 <img align="right" src="image.gif" width = 250px/>
 
