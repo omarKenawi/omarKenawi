@@ -11,7 +11,7 @@
 
 <img align="right" src="image.gif" width = 250px/>
 
-- :school: I am a `Computer Science` from the Faculty of  Science at Cairo University (senior)
+- :school: I am a `Computer Science Student` from the Faculty of  Science at Cairo University (senior)
 - 🌱 I’m currently studying react
 
 - 📫 How to reach me **omar.sseeddeekk@gmail.com**
