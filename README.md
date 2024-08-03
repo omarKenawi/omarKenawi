@@ -7,12 +7,12 @@
 </head>
 <body>
     <h1 align="center">Hi 👋, I'm Omar Kenawi</h1>
-<h3 align="center">Mobile Developer | Front end |2x ECPC finalist </h3>
+<h3 align="center">Mobile Developer | Front end | 2x ECPC finalist </h3>
 
 <img align="right" src="image.gif" width = 250px/>
 
-- :school: I am a `Computer Science Student` from the Faculty of  Science at Cairo University (senior)
-- 🌱 I’m currently studying react
+- :school: I am a `Computer Science fresh graduated` from the Faculty of  Science at Cairo University
+- 🌱 I’m currently working in Amortization Calculator
 
 - 📫 How to reach me **omar.sseeddeekk@gmail.com**
 
