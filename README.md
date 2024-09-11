@@ -11,14 +11,12 @@
 
 <img align="right" src="image.gif" width = 250px/>
 
-- :school: I am a `Computer Science fresh graduated` from the Faculty of  Science at Cairo University
+- :school: I am a `Software Engineer` 
 - 🌱 I’m currently working in Amortization Calculator
 
 - 📫 How to reach me **omar.sseeddeekk@gmail.com**
 
 - :thinking: I’m currently open for a new `job opportunity`
-
-- :nerd_face: Always `learning new things`
 
 ## 📩 Connect with me
 <p align="left">
