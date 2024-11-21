@@ -12,7 +12,7 @@
 <img align="right" src="image.gif" width = 250px/>
 
 - :school: I am a `Software Engineer` 
-- 🌱 I’m currently working in Amortization Calculator
+- 🌱 I’m currently working in Adwaa Alkhalil
 
 - 📫 How to reach me **omar.sseeddeekk@gmail.com**
 
